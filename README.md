@@ -1,11 +1,10 @@
 # zomato_restaurants_data
-
 Each restaurant in the dataset is uniquely identified by its Restaurant Id. Every Restaurant contains the following variables:
 
+
+STEP 1: Flatten nested JSON and select only required columns
+
 • Restaurant Id: Unique id of every restaurant across various cities of the world
-
-
-
 
 • Restaurant Name: Name of the restaurant
 • Country Code: Country in which restaurant is located
@@ -27,3 +26,13 @@ Each restaurant in the dataset is uniquely identified by its Restaurant Id. Ever
 • Rating color: depending upon the average rating color
 • Rating text: text on the basis of rating of rating
 • Votes: Number of ratings casted by people
+
+STEP 2: Apply transformation (Data cleaning)
+
+STEP 3: Load the data to a table
+
+
+
+
+
+
