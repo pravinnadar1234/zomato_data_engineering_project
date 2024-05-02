@@ -1,5 +1,5 @@
 # zomato_restaurants_data
-Each restaurant in the dataset is uniquely identified by its Restaurant Id. Every Restaurant contains the following variables:
+Each restaurant in the dataset is uniquely identified by its Restaurant Id.
 
 
 STEP 1: Flatten nested JSON and select only required columns
