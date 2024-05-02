@@ -1,5 +1,5 @@
 # zomato_restaurants_data
-Each restaurant in the dataset is uniquely identified by its Restaurant Id.
+Each restaurant in the dataset is uniquely identified by its Restaurant Id listed below.
 
 
 STEP 1: Flatten nested JSON and select only required columns
@@ -48,7 +48,8 @@ STEP 1: Flatten nested JSON and select only required columns
 
 STEP 2: Apply transformation (Data cleaning)
 
-STEP 3: Load the data to a table
+STEP 3: Load the data to a table 
+        Have created a new column Restaurant_seq_ID which is the surrogate key of the table
 
 
 ZOMATO ANALYSIS 
@@ -62,7 +63,7 @@ ZOMATO ANALYSIS
 4. What are the Top20 Cuisines?
 
 
-This project gave a good knowledge of Pyspark, ETL, Python Data structures
+This project gave a good knowledge of Pyspark, ETL,Data warehouse modelling, Python Data structures
 
 
 
