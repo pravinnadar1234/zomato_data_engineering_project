@@ -3,6 +3,10 @@
 Each restaurant in the dataset is uniquely identified by its Restaurant Id. Every Restaurant contains the following variables:
 
 • Restaurant Id: Unique id of every restaurant across various cities of the world
+
+
+
+
 • Restaurant Name: Name of the restaurant
 • Country Code: Country in which restaurant is located
 • City: City in which restaurant is located
