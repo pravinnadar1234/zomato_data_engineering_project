@@ -69,7 +69,7 @@ ZOMATO ANALYSIS
 4. What are the Top20 Cuisines?
 
 
-This project gave a good knowledge of Pyspark, ETL,Data warehouse modelling, Python Data structures
+This project gave a good knowledge of Pyspark,Spark, ETL,Data warehouse modelling, Python Data structures
 
 
 
