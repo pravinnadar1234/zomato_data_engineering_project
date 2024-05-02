@@ -2,7 +2,7 @@
 Each restaurant in the dataset is uniquely identified by its Restaurant Id listed below.
 
 
-STEP 1: Flatten nested JSON and select only required columns
+STEP 1: Flatten nested JSON and select only required columns listed below.
 
 • Restaurant Id: Unique id of every restaurant across various cities of the world
 
