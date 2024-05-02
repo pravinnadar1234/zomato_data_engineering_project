@@ -51,6 +51,18 @@ STEP 2: Apply transformation (Data cleaning)
 STEP 3: Load the data to a table
 
 
+ZOMATO ANALYSIS 
+
+1. What are the Top10 Indian Cities with Maximum Restaurants?
+
+2. What are the some Cities around the globe with Maximum Restaurants?
+
+3. What are the Top10 Popular Ratings as per the Counts?
+
+4. What are the Top20 Cuisines?
+
+
+This project gave a good knowledge of Pyspark, ETL, Python Data structures
 
 
 
